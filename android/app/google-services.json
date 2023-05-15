@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993267096872",
+    "project_id": "flash-chat-2e3f9",
+    "storage_bucket": "flash-chat-2e3f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993267096872:android:dc7d7f8161aa3be502841d",
+        "android_client_info": {
+          "package_name": "com.anshu.chatify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993267096872-5olga0b17mbplvbdnpsbk0fn9b7j2dea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpI6yO_-fuSLGgcgFb_x-3S4PqA6Yi7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993267096872-5olga0b17mbplvbdnpsbk0fn9b7j2dea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
